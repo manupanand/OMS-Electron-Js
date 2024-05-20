@@ -20,9 +20,13 @@ To install OMS-Electron-Js, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/OMS-Electron-Js.git
+   git clone https://github.com/yourusername/OMS-Electron-Js.git```
 
+2.Install dependencies:
+  ``` npm install ``
 
+3.Start the application:
+    ```npm start```
 
 ### Contributing:
 
